@@ -16,7 +16,7 @@ Some description here is required.
 All containers are created locally. You need special API Token to run it.
 Then you choose model and include your infrastructure.
 
-Then you create container and magic happens. 
+Then you create container and magic and all optimizations happens.
 """
 
 if __name__ == '__main__':
